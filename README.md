@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cheer77 Alex Chervonniy
+- 👋 Hi, I’m @cheer77 Oleksandr Chervonniy
 - 👀 I’m interested in webdevelopment 
 - 🌱 I'm currently learning JavaScript and it's libraries )
 - 💞️ I’m looking for collaborate on some good, interesting to me and other people web projects !
