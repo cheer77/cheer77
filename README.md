@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cheer77 Oleksandr Chervonniy
 - 👀 I’m interested in webdevelopment 
-- 🌱 I'm currently learning JavaScript and it's libraries )
+- 🌱 I'm very like JavaScript and it's libraries )
 - 💞️ I’m looking for collaborate on some good, interesting to me and other people web projects !
 - 📫 How to reach me - email: sheph@ur.net
 
